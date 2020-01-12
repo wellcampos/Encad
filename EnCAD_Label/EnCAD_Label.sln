@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encad", "Encad.csproj", "{8FD04BAA-BC95-4421-809F-0467A21A1AA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnCAD_Label", "EnCAD_Label.csproj", "{3514662D-C293-49E3-9F5B-70331A69D489}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8FD04BAA-BC95-4421-809F-0467A21A1AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FD04BAA-BC95-4421-809F-0467A21A1AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FD04BAA-BC95-4421-809F-0467A21A1AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FD04BAA-BC95-4421-809F-0467A21A1AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3514662D-C293-49E3-9F5B-70331A69D489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3514662D-C293-49E3-9F5B-70331A69D489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3514662D-C293-49E3-9F5B-70331A69D489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3514662D-C293-49E3-9F5B-70331A69D489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {86EF9125-2183-44DA-BB34-1CCEC7291961}
+		SolutionGuid = {B451051D-05C9-44D5-B23C-780D3A112D1B}
 	EndGlobalSection
 EndGlobal
